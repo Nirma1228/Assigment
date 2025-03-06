@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "content from branch B"
+=======
+“Content from branch A”
+>>>>>>> branchA
